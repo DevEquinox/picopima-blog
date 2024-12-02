@@ -4,7 +4,7 @@
 # Build output
 /dist/
 /build/
-/public/
+/frontend/public/
 /tmp/
 
 # IDE files
