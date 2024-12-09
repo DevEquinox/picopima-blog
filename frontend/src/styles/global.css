@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+header {
+    background-color: #CD4F00;
+    display: flex;
+    align-items: center;
+}
+
+header * {
+    margin-left: 10px;
+}
+
+.site-logo {
+    height: 50px;
+    width: 50px;
+}
+
+h1, h2, h3 {
+    font-family: 'Krona One', sans-serif;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+}
+
+button {
+    background-color: #CD4F00;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+    height: 50px;
+    width: 160px;
+    border-width: 0px;
+    border-radius: 8px;
+    align-self: center;
+}
