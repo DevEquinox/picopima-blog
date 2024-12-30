@@ -1,5 +1,4 @@
 # Picopima Blog
-This is a personal (in the sense that this is done outside of any classes) group exercise to create a blog with the following features:
 - User sign up and login with 2FA
 - Content manager
 - Comments
